@@ -1,3 +1,3 @@
 # helloworld
 
-A new Flutter project.
+Приложение HelloWorld/
