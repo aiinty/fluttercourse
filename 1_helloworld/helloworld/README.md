@@ -1,3 +1,3 @@
 # helloworld
 
-Приложение HelloWorld/
+Приложение HelloWorld.
