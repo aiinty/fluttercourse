@@ -15,9 +15,7 @@ class MainApp extends StatelessWidget {
         home: Scaffold(
             body: Padding(
       padding: EdgeInsets.symmetric(vertical: 16, horizontal: 32),
-      child: Center(
-        child: InputForm(),
-      ),
+      child: InputForm(),
     )));
   }
 }
